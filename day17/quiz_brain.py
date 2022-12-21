@@ -31,10 +31,12 @@ class QuizBrain:
         :param correct_answer:
         :return:
         """
-        if user_answer.lower() is correct_answer.lower():
+        if user_answer.lower() == correct_answer.lower():
             print("You got the answer right!")
+            self.score += 1
         else:
             print("The answer was incorrect")
         print(f"The correct answer was: {correct_answer}")
         print(f"Your current score is: {self.score}/{self.question_number}")
+        print("\n")
 

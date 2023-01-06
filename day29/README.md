@@ -3,3 +3,5 @@
 - Working with Images and Setting up the Canvas
 - Use grid() and columnspan to Complete the User Interface (UI)
 - Saving Data to File
+- Dialog Boxes and Pop-Ups in Tkinter
+- Generate Password & Copy it to the Clipboard

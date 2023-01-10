@@ -19,3 +19,22 @@ Repo To Showcase 100 Days of Code Projects
 - [Day 29:](https://github.com/mgiammal/100daysofcode/tree/main/day29) Building a Password Manager GUI App with Tkinter
 - [Day 30:](https://github.com/mgiammal/100daysofcode/tree/main/day30) Errors, Exceptions and JSON Data: Improving the Password Manager
 - [Day 31:](https://github.com/mgiammal/100daysofcode/tree/main/day31) Flash Card App Capstone Project
+
+## 📚 Intermediate+
+- [Day 32:](https://github.com/mgiammal/100daysofcode/tree/main/day32)  Temp
+- [Day 33:](https://github.com/mgiammal/100daysofcode/tree/main/day33)  Temp
+- [Day 34:](https://github.com/mgiammal/100daysofcode/tree/main/day34)  Temp
+- [Day 35:](https://github.com/mgiammal/100daysofcode/tree/main/day35)  Temp
+- [Day 36:](https://github.com/mgiammal/100daysofcode/tree/main/day36)  Temp
+- [Day 37:](https://github.com/mgiammal/100daysofcode/tree/main/day37)  Temp
+- [Day 38:](https://github.com/mgiammal/100daysofcode/tree/main/day38)  Temp
+- [Day 39:](https://github.com/mgiammal/100daysofcode/tree/main/day39)  Temp
+- [Day 40:](https://github.com/mgiammal/100daysofcode/tree/main/day40)  Temp
+- [Day 41:](https://github.com/mgiammal/100daysofcode/tree/main/day41)  Temp
+- [Day 42:](https://github.com/mgiammal/100daysofcode/tree/main/day42)  Temp
+- [Day 43:](https://github.com/mgiammal/100daysofcode/tree/main/day43)  Temp
+- [Day 44:](https://github.com/mgiammal/100daysofcode/tree/main/day44)  Temp
+- [Day 45:](https://github.com/mgiammal/100daysofcode/tree/main/day45)  Temp
+- [Day 46:](https://github.com/mgiammal/100daysofcode/tree/main/day46)  Temp
+- [Day 47:](https://github.com/mgiammal/100daysofcode/tree/main/day47)  Temp
+- [Day 48:](https://github.com/mgiammal/100daysofcode/tree/main/day48)  Temp

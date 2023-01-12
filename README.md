@@ -21,7 +21,7 @@ Repo To Showcase 100 Days of Code Projects
 - [Day 31:](https://github.com/mgiammal/100daysofcode/tree/main/day31) Flash Card App Capstone Project
 
 ## 📚 Intermediate+
-- [Day 32:](https://github.com/mgiammal/100daysofcode/tree/main/day32)  Temp
+- [Day 32:](https://github.com/mgiammal/100daysofcode/tree/main/day32)  Send Email (smtplib) & Manage Dates (datetime)
 - [Day 33:](https://github.com/mgiammal/100daysofcode/tree/main/day33)  Temp
 - [Day 34:](https://github.com/mgiammal/100daysofcode/tree/main/day34)  Temp
 - [Day 35:](https://github.com/mgiammal/100daysofcode/tree/main/day35)  Temp

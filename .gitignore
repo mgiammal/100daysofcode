@@ -5,3 +5,4 @@ venv/
 */*/__pycache__/
 day29/data.txt
 day30/*/data.json
+.env

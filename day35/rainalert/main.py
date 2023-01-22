@@ -1,8 +1,10 @@
 import requests
 from twilio.rest import Client
 import os
+from dotenv import load_dotenv
 
-# You must set envs first.
+# You must set envs first in a .env file.
+load_dotenv()
 api_key = os.environ.get("OWM_API_KEY")
 account_sid = os.environ.get("TWILIO_SID")
 auth_token = os.environ.get("TWILIO_API_KEY")

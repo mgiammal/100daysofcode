@@ -22,13 +22,13 @@ Repo To Showcase 100 Days of Code Projects
 
 ## 📚 Intermediate+
 - [Day 32:](https://github.com/mgiammal/100daysofcode/tree/main/day32)  Send Email (smtplib) & Manage Dates (datetime)
-- [Day 33:](https://github.com/mgiammal/100daysofcode/tree/main/day33)  Temp
-- [Day 34:](https://github.com/mgiammal/100daysofcode/tree/main/day34)  Temp
-- [Day 35:](https://github.com/mgiammal/100daysofcode/tree/main/day35)  Temp
-- [Day 36:](https://github.com/mgiammal/100daysofcode/tree/main/day36)  Temp
-- [Day 37:](https://github.com/mgiammal/100daysofcode/tree/main/day37)  Temp
-- [Day 38:](https://github.com/mgiammal/100daysofcode/tree/main/day38)  Temp
-- [Day 39:](https://github.com/mgiammal/100daysofcode/tree/main/day39)  Temp
+- [Day 33:](https://github.com/mgiammal/100daysofcode/tree/main/day33)  API Endpoints & API Parameters - ISS Overhead Notifier
+- [Day 34:](https://github.com/mgiammal/100daysofcode/tree/main/day34)  API Practice - Creating a GUI Quiz App
+- [Day 35:](https://github.com/mgiammal/100daysofcode/tree/main/day35)  Keys, Authentication & Environment Variables - Telegram Rain Notifier
+- [Day 36:](https://github.com/mgiammal/100daysofcode/tree/main/day36)  Stock Trading News Alert Project
+- [Day 37:](https://github.com/mgiammal/100daysofcode/tree/main/day37)  Habit Tracking Project: API Post Requests & Headers
+- [Day 38:](https://github.com/mgiammal/100daysofcode/tree/main/day38)  Workout Tracking Using Google Sheets
+- [Day 39:](https://github.com/mgiammal/100daysofcode/tree/main/day39)  Capstone Part 1: Flight Deal Finder
 - [Day 40:](https://github.com/mgiammal/100daysofcode/tree/main/day40)  Temp
 - [Day 41:](https://github.com/mgiammal/100daysofcode/tree/main/day41)  Temp
 - [Day 42:](https://github.com/mgiammal/100daysofcode/tree/main/day42)  Temp

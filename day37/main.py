@@ -21,7 +21,7 @@ create_user_params = {
 
 # Create a graph
 create_graph_params = {
-    "id": "graph1",
+    "id": GRAPH_ID,
     "name": "Cycling Graph",
     "unit": "Km",
     "type": "float",

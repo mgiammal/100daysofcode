@@ -30,7 +30,7 @@ Repo To Showcase 100 Days of Code Projects
 - [Day 38:](https://github.com/mgiammal/100daysofcode/tree/main/day38)  Workout Tracking Using Google Sheets
 - [Day 39:](https://github.com/mgiammal/100daysofcode/tree/main/day39)  Capstone Part 1: Flight Deal Finder
 - [Day 40:](https://github.com/mgiammal/100daysofcode/tree/main/day40)  Capstone Part 2: Flight Club
-- [Day 41:](https://github.com/mgiammal/100daysofcode/tree/main/day41)  Temp
+- [Day 41:](https://github.com/mgiammal/100daysofcode/tree/main/day41)  Web Foundation - Introduction to HTML
 - [Day 42:](https://github.com/mgiammal/100daysofcode/tree/main/day42)  Temp
 - [Day 43:](https://github.com/mgiammal/100daysofcode/tree/main/day43)  Temp
 - [Day 44:](https://github.com/mgiammal/100daysofcode/tree/main/day44)  Temp
